@@ -1,0 +1,13 @@
+body{
+background: #226db5;
+}
+
+#gameContainer{
+padding:10px;
+margin: 0 auto;
+display: block;
+background: #164776;
+border: 1px solid #164776;
+width:800px;
+height:600px;
+}
